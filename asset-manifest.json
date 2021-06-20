@@ -5,15 +5,15 @@
     "main.js.map": "/nameiT/static/js/main.71f1aa55.chunk.js.map",
     "runtime-main.js": "/nameiT/static/js/runtime-main.9ce1e703.js",
     "runtime-main.js.map": "/nameiT/static/js/runtime-main.9ce1e703.js.map",
-    "static/js/2.de8e927e.chunk.js": "/nameiT/static/js/2.de8e927e.chunk.js",
-    "static/js/2.de8e927e.chunk.js.map": "/nameiT/static/js/2.de8e927e.chunk.js.map",
+    "static/js/2.bb973ba3.chunk.js": "/nameiT/static/js/2.bb973ba3.chunk.js",
+    "static/js/2.bb973ba3.chunk.js.map": "/nameiT/static/js/2.bb973ba3.chunk.js.map",
     "index.html": "/nameiT/index.html",
     "static/css/main.9e56ad49.chunk.css.map": "/nameiT/static/css/main.9e56ad49.chunk.css.map",
-    "static/js/2.de8e927e.chunk.js.LICENSE.txt": "/nameiT/static/js/2.de8e927e.chunk.js.LICENSE.txt"
+    "static/js/2.bb973ba3.chunk.js.LICENSE.txt": "/nameiT/static/js/2.bb973ba3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.9ce1e703.js",
-    "static/js/2.de8e927e.chunk.js",
+    "static/js/2.bb973ba3.chunk.js",
     "static/css/main.9e56ad49.chunk.css",
     "static/js/main.71f1aa55.chunk.js"
   ]
