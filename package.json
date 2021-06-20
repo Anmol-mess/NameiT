@@ -2,7 +2,7 @@
   "name": "nameit",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Anmol-mess.github.io/nameiT/",
+  "homepage": "https://Anmol-mess.github.io/nameiT",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
